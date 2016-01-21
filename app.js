@@ -25,7 +25,7 @@ var limit = 4;
 wss.on('connection', function(ws) {
 	console.log("connection_PIXI_JACK");
 	console.log("connection_PIXI_XYZ");
-	console.log("connection_PIXI_XYZ");
+	console.log("connection_PIXI_123");
 
 	//初次連線設定(僅執行一次)
 	//1. 更新表格
